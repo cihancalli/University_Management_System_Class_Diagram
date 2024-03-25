@@ -1,5 +1,5 @@
 
-# Üniversite Sınıf Diyagramı
+# Universite Yönetim sistemi Sınıf Diyagramı
 ### Soru : Bir üniversite sistemi için aşağıdaki bilgiler doğrultusunda bir sınıf diyagramı çiziniz:
 
 
